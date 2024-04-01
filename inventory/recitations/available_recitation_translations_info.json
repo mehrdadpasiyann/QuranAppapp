@@ -37,6 +37,22 @@
       }
     },
     {
+
+
+
+ "slug": "makarem-kabiri",
+      "lang-code": "fa",
+      "lang-name": "فارسی",
+      "reciter": "makarem kabiri",
+      "url-host": null,
+      "url-path": "/data/translations/Fooladvand_Hedayatfar_40Kbps/{chapNo:%03d}{verseNo:%03d}.mp3",
+      "translations": {
+        "fa": "مکارم - کبیری"
+
+
+       }
+    },
+    {
       "slug": "mohammed-ahmed",
       "lang-code": "ks",
       "lang-name": "كٲشُر",
