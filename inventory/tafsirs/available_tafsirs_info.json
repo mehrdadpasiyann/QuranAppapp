@@ -56,6 +56,22 @@
         "langCode": "ku",
         "langName": "کوردی",
         "slug": "kurd-tafsir-rebar"
+
+
+ }
+    ],
+    "fa": [
+      {
+        "key": "fa-tafsir- Al-Saadi",
+        "name": "تفسیر سعدی",
+        "author": "تفسیر فارسی سعدی",
+        "langCode": "fa",
+        "langName": "فارسی",
+        "slug": "farsi-tafsir-Al-Saadi"
+
+
+
+        
       }
     ]
   }
